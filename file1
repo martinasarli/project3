@@ -1,3 +1,5 @@
 primo file
 che bello
 ora lo modifico e faccio ingrippare tutto
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
